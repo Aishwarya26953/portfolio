@@ -1,1 +1,1 @@
-live:![Uploading WhatsApp Image 2025-09-14 at 23.06.22_56170b6c.jpg…]()
+live demo: https://aishwarya26953.github.io/portfolio/
